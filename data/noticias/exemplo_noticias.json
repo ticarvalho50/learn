@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Inteligência Artificial supera médicos em diagnóstico de câncer de pele",
+    "text": "Um estudo publicado na revista Nature Medicine revelou que um modelo de IA desenvolvido por pesquisadores da Universidade de Stanford identificou melanomas com 95% de precisão, superando dermatologistas experientes em 87% dos casos analisados. O sistema foi treinado com mais de 130 mil imagens clínicas.",
+    "source": "Nature Medicine",
+    "url": "https://example.com/ia-cancer-pele"
+  },
+  {
+    "title": "Brasil lidera adoção de pagamentos por PIX na América Latina",
+    "text": "O Banco Central divulgou que o PIX atingiu 180 milhões de usuários cadastrados, com média de 120 milhões de transações por dia. O sistema brasileiro de pagamentos instantâneos é hoje referência mundial, sendo estudado por mais de 40 países que planejam implementar sistemas similares.",
+    "source": "Banco Central do Brasil",
+    "url": "https://example.com/pix-america-latina"
+  },
+  {
+    "title": "Startup brasileira desenvolve bateria que carrega carro elétrico em 5 minutos",
+    "text": "A Eletra, startup de São Carlos (SP), anunciou uma bateria de estado sólido capaz de carregar 80% da capacidade em apenas 5 minutos. A tecnologia usa eletrólitos de grafeno e promete autonomia de 600km por carga. A empresa captou R$ 200 milhões em rodada Série B liderada por fundos de Silicon Valley.",
+    "source": "Valor Econômico",
+    "url": "https://example.com/bateria-carro-eletrico"
+  }
+]

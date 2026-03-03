@@ -15,6 +15,15 @@ build/
 
 # Outputs gerados (áudios e JSONs — não commitar)
 outputs/
+!outputs/.gitkeep
+
+# Notícias reais (dados sensíveis/proprietários — não commitar)
+data/noticias/*.json
+data/noticias/*.csv
+data/noticias/*.txt
+data/noticias/*.md
+!data/noticias/exemplo_noticias.json
+!data/noticias/.gitkeep
 
 # IDEs
 .vscode/
