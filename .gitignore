@@ -1,0 +1,32 @@
+# Ambiente
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Build
+*.egg-info/
+dist/
+build/
+
+# Outputs gerados (áudios e JSONs — não commitar)
+outputs/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Testes / cobertura
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Kokoro — cache do modelo (~300MB)
+kokoro-v1.0.onnx
+voices-v1.0.bin
